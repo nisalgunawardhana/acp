@@ -17,12 +17,6 @@ A pure JavaScript SDK for communicating with Agent Communication Protocol (ACP) 
 npm install acp-js-sdk
 ```
 
-Or with other package managers:
-
-```bash
-yarn add acp-sdk-js
-pnpm install acp-sdk-js
-```
 
 ## Quick Start
 
